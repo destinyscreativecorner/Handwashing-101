@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6keLwjYygAQ_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Handwashing 101</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Handwashing_101_ORG">
+    <organization identifier="Handwashing_101_ORG">
+      <title>Handwashing 101</title>
+      <item identifier="Handwashing_101_SCO" isvisible="true" identifierref="__6keLwjYygAQ_course_id_RES">
+        <title>Handwashing 101</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6keLwjYygAQ_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6PFZQ9RWvqT_DX892_DY892_CX645_CY702.png" />
+      <file href="mobile/6Yl9EkimdmD_DX708_DY708_CX556_CY437.png" />
+      <file href="mobile/6cM6PXIV8xM_DX1280_DY1280_CX798_CY795.png" />
+      <file href="mobile/6YyCGPk0QJy_DX828_DY828_CX521_CY651.png" />
+      <file href="mobile/6oorN7pkgiA_DX680_DY680_CX535_CY497.png" />
+      <file href="mobile/5aTdJHG2Jc9_DX1080_DY1080_CX801_CY849.png" />
+      <file href="mobile/5mWcqjBwW3w_DX796_DY796_CX605_CY626.png" />
+      <file href="mobile/61eGxCq7VgT_DX624_DY624_CX461_CY480.gif" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5pmQJjMb5Cu.js" />
+      <file href="html5/data/js/5V9zs3uNIVk.js" />
+      <file href="html5/data/js/6CooHIKGdx6.js" />
+      <file href="html5/data/js/6gNNnyynWGU.js" />
+      <file href="html5/data/js/6mDu83iUuaJ.js" />
+      <file href="html5/data/js/6N5yArWGDKa.js" />
+      <file href="html5/data/js/6XTJM2EGzj0.js" />
+      <file href="html5/data/js/6YW8uponaPP.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
